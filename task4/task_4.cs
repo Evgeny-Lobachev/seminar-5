@@ -27,6 +27,6 @@
 
         double decision = maxNumber - minNumber;
 
-        Console.WriteLine($"\nразница между между максимальным ({maxNumber}) и минимальным({minNumber}) элементами: {decision}");
+        Console.WriteLine($"\nРазница между между максимальным ({maxNumber}) и минимальным({minNumber}) элементами: {decision}");
     }
 }
